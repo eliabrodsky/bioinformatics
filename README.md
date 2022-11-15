@@ -1,2 +1,2 @@
 # bioinformatics
-A collection of projects and exercises on bioinformatics
+A collection of projects and exercises in bioinformatics
